@@ -1,5 +1,5 @@
 ## Bem vindo a GitHub Pages da Lívia
 
-Nesta página publico meus estudos e meus projetos.
+Aqui irei publicar meus estudos e meus projetos pessoais.
 
 
