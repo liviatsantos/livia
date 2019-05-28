@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo a GitHub Pages da Lívia
+
+Nesta página publico meus estudos e meus projetos.
 
 You can use the [editor on GitHub](https://github.com/liviatsantos/estudos_livia/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
