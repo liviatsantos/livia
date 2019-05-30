@@ -2,6 +2,7 @@
 
 Aqui irei publicar meus estudos e meus projetos pessoais.
 Link do meu repositório [GitHub](https://github.com/liviatsantos)
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Introdução ao JavaScript e jQuery 30/05/2019
 No curso relâmpago de javaScript da Udemy [Introdução à linguagem JavaScript](https://www.udemy.com/introducao-a-linguagem-javascript/) aprendi o básico da linguagem como criar variáveis, estruturas condicionais, funções e alguns eventos.
